@@ -1,7 +1,7 @@
 {
-  "name": "burger",
+  "name": "burgers",
   "version": "1.0.0",
-  "description": "Week 14 Project - Node Express Handlebars",
+  "description": "Burgers-Node",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -9,15 +9,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/jasonboru/burger.git"
+    "url": "git+https://github.com/BryantAB"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/jasonboru/burger/issues"
+    "url": "https://github.com/BryantAB"
   },
-  "homepage": "https://github.com/jasonboru/burger#readme",
+  "homepage": "https://github.com/BryantAB",
   "dependencies": {
     "body-parser": "^1.17.1",
     "express": "^4.15.2",
